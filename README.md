@@ -1,5 +1,6 @@
-# Foundry ERC20
-- [Foundry ERC20](#foundry-erc20)
+# Token
+
+- [Token](#token)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
